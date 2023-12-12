@@ -5,9 +5,10 @@ proceso
 
 salida
 
-nuevo camb
-gggg
+nuevo cambio local
+nuevo cambio local2
+nuevo cambio local3
 
 cambio desde github
-cambios github2
-cambios github3
+cambios desde github2
+cambios desde github3
